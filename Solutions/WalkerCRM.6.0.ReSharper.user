@@ -1,0 +1,86 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:CastleWindsor/f:ComponentRegistrar.cs" caret="0" fromTop="0" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/f:packages.config" caret="299" fromTop="6" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/f:NHibernate.config" caret="1234" fromTop="17" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/f:Hibernate.cfg.xml" caret="825" fromTop="11" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/f:App.config" caret="0" fromTop="0" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/f:Web.config" caret="1269" fromTop="0" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/f:Global.asax.cs" caret="1983" fromTop="15" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Controllers/f:HomeController.cs" caret="213" fromTop="10" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Models/f:WalkerCRMWebMvcContext.cs" caret="887" fromTop="14" />
+      <File id="9544D94B-9B6E-4B61-8A09-88382205BF86/d:NHibernateMaps/f:AutoPersistenceModelGenerator.cs" caret="592" fromTop="10" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Models/f:UserRepository.cs" caret="1434" fromTop="51" />
+      <File id="8DEF56CD-601E-443C-9DCE-C4EC54C0B6A6/f:User.cs" caret="0" fromTop="0" />
+      <File id="CC4A233E-BE8A-47CC-A87C-8352BFD557B7/f:ServiceLocatorInitializer.cs" caret="0" fromTop="0" />
+      <File id="9544D94B-9B6E-4B61-8A09-88382205BF86/d:NHibernateMaps/d:Conventions/f:TableNameConvention.cs" caret="0" fromTop="0" />
+      <File id="9544D94B-9B6E-4B61-8A09-88382205BF86/f:packages.config" caret="0" fromTop="0" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Controllers/f:UserController.cs" caret="419" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/f:packages.config" caret="0" fromTop="0" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/f:Web.config" caret="1282" fromTop="16" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/f:NHibernate.config" caret="275" fromTop="3" />
+      <File id="8DEF56CD-601E-443C-9DCE-C4EC54C0B6A6/f:User.cs" caret="223" fromTop="7" />
+      <File id="9544D94B-9B6E-4B61-8A09-88382205BF86/d:NHibernateMaps/f:AutoPersistenceModelGenerator.cs" caret="644" fromTop="11" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Controllers/f:UserController.cs" caret="251" fromTop="13" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Controllers/f:UserController.cs" caret="269" fromTop="14" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Controllers/f:UserController.cs" caret="552" fromTop="25" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Controllers/f:UserController.cs" caret="713" fromTop="30" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Controllers/f:UserController.cs" caret="1132" fromTop="25" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Controllers/f:UserController.cs" caret="1393" fromTop="27" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Controllers/f:UserController.cs" caret="1676" fromTop="32" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Controllers/f:UserController.cs" caret="1941" fromTop="31" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Controllers/f:UserController.cs" caret="2205" fromTop="37" />
+      <File id="39613BA0-1206-4A4B-A16A-C1F2A22D1267/d:Controllers/f:UserController.cs" caret="419" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="prop" priority="63" />
+      <Item value="int" priority="30" />
+      <Item value="string" priority="30" />
+      <Item value="virtual" priority="63" />
+      <Item value="AllowEmptyStrings" priority="31" />
+      <Item value="false" priority="31" />
+      <Item value="ErrorMessage" priority="31" />
+      <Item value="User`0" priority="93" />
+      <Item value="ctor" priority="31" />
+      <Item value="private" priority="63" />
+      <Item value="readonly" priority="63" />
+      <Item value="var" priority="63" />
+      <Item value="userRepository" priority="63" />
+      <Item value="id" priority="31" />
+      <Item value="user" priority="31" />
+      <Item value="public" priority="31" />
+      <Item value="ViewResult`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SharpArch.NHibernate.Contracts.Repositories.INHibernateRepository`1">
+      <Item value="GetAll`0" priority="53" />
+      <Item value="Get`0" priority="109" />
+      <Item value="SaveOrUpdate`0" priority="55" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WalkerCRM.Domain.User">
+      <Item value="UserName" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
